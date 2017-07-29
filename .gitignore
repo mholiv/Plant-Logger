@@ -1,0 +1,4 @@
+*.pyc
+env_vars.sh
+.idea/
+venv/
